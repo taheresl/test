@@ -255,10 +255,4 @@ ModelManifest.xml
 
 
 
-npm-debug.log.*
-/SetiaFiles
-/ThirdParty/EPPlus
-.vscode
-.vs
-/Host/Properties/PublishProfiles/FolderProfile.pubxml
-/client/src/assets/images/icons/material-svgs
+
